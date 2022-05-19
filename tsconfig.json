@@ -1,0 +1,11 @@
+{
+    "include": ["*"],
+    "compilerOptions": {
+        "target": "esnext",
+        "strict": true,
+        "jsx": "react-jsx",
+        "experimentalDecorators": true,
+        "moduleResolution": "node",
+        "esModuleInterop": true
+    }
+}
